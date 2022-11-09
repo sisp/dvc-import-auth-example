@@ -1,0 +1,6 @@
+[core]
+    remote = gitlab.com:40913719
+['remote "gitlab.com:40913719"']
+    url = https://gitlab.com/api/v4/projects/40913719/packages/generic/dvc-data
+    method = PUT
+    auth = custom
