@@ -1,0 +1,10 @@
+md5: ca1550c5f5f3205dfceb625567577575
+frozen: true
+deps:
+- path: data.txt
+  repo:
+    url: git@github.com:sisp/dvc-import-auth-example.git
+    rev: project-a
+    rev_lock: 29ef86fc19ceb09c6878319fd7fd24374fe449fa
+outs:
+- path: project-a-data.txt
